@@ -1,3 +1,9 @@
+# revision 15878
+# category Package
+# catalog-ctan /macros/latex/contrib/csbulletin
+# catalog-date 2008-08-17 11:40:59 +0200
+# catalog-license lppl
+# catalog-version 1.0
 Name:		texlive-csbulletin
 Version:	1.0
 Release:	1
@@ -43,6 +49,7 @@ source file of the manual.
 %doc %{_texmfdistdir}/doc/latex/csbulletin/README
 %doc %{_texmfdistdir}/doc/latex/csbulletin/csbulletin.pdf
 %doc %{_texmfdistdir}/doc/latex/csbulletin/csbulletin.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -53,3 +60,5 @@ source file of the manual.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
