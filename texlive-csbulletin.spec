@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 1.0
 Name:		texlive-csbulletin
-Version:	1.0
-Release:	10
+Version:	1.1
+Release:	1
 Summary:	LaTeX class for articles submitted to the CSTUG Bulletin (Zpravodaj)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/csbulletin
