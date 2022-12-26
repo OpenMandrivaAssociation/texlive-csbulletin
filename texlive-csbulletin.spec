@@ -1,5 +1,5 @@
 Name:		texlive-csbulletin
-Version:	54433
+Version:	65250
 Release:	1
 Summary:	LaTeX class for articles submitted to the CSTUG Bulletin (Zpravodaj)
 Group:		Publishing
