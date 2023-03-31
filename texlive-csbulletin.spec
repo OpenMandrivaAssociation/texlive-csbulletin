@@ -1,6 +1,6 @@
 Name:		texlive-csbulletin
 Version:	65250
-Release:	1
+Release:	2
 Summary:	LaTeX class for articles submitted to the CSTUG Bulletin (Zpravodaj)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/csbulletin
