@@ -3,7 +3,7 @@ Version:	65250
 Release:	2
 Summary:	LaTeX class for articles submitted to the CSTUG Bulletin (Zpravodaj)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/csbulletin
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/csbulletin
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/csbulletin.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/csbulletin.doc.r%{version}.tar.xz
